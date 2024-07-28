@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Maps/MAP_Debug.umap",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/FB_Runner_Idle.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/FB_Runner_Run.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_0.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_1.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_2.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_3.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_4.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_5.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_6.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_7.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_8.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner_Sprite_9.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Blueprints/BP_Runner.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Inputs/IMC_Runner.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Blueprints/GM_Runner.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Inputs/Actions/IA_PowerLeft.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Inputs/Actions/IA_PowerRight.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Blueprints/Enums/E_Input.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Curves/C_SpeedIncreaseRamp.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Curves/C_SpeedDecreaseRamp.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Sounds/Footsteps/CUE_Footstep.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Maps/NewMapMAPMAP_Field.umap",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Maps/MAP_Field.umap",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Blueprints/BP_Field.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Sounds/Footsteps/S_Step_1.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Sounds/Footsteps/S_Step_2.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Blueprints/AI/AIC_Runner.uasset",
+				"/Users/herrison_feres/Documents/Unreal Projects/MashRunner/Content/Blueprints/BP_GO.uasset"
+			]
+		}
+	]
+}
